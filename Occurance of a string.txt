@@ -2,7 +2,7 @@ package org.important;
 
 public class Test {
 	public static void main(String[] args) {
-		String s="Apple is a fruit";
+		String s="Iam Bat man";
 		         s=s.toLowerCase();
 		char find='a';
 		
